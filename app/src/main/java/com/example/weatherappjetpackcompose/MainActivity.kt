@@ -53,6 +53,7 @@ fun MainScreen() {
         Column {
             Text(text = "Comiit Feature 2 ")
             Text(text = "Comiit Feature 3 ")
+            Text(text = "Comiit Feature 3 ")
         }
 
     }

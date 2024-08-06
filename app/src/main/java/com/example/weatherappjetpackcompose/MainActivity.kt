@@ -49,7 +49,7 @@ fun MainScreen() {
                 )
             )
     ) {
-
+        Text(text = "Comiit Feature 1 ")
     }
 }
 
